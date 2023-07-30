@@ -24,7 +24,7 @@ jobs:
       - name: Load to GitHub
         run: |-
           git diff
-          git config --global user.email "noreply@walkx.fyi"
+          git config --global user.email "kenny3231@yopmail.com"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
           git commit -m ":clamp: Compresses PNGs" || exit 0
