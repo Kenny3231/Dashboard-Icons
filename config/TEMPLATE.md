@@ -6,7 +6,7 @@
     </a>
   </p>
   <p align="center">
-    🚀 The best place to find icons for your dashboards.
+    🚀 Toutes les icones.
     <br />
     <a href="https://github.com/Kenny3231/Dashboard-Icons/"><strong>⬅️ Back to repo</strong></a>
     <br />
