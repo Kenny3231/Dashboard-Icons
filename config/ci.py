@@ -7,7 +7,7 @@ path = root / "../ICONS.md"
 
 
 def generate_img_tag(file):
-    return f'<a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/{file.name}"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/{file.name}" alt="{file.stem}" height="50"></a>'
+    return f'<a href="https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/{file.name}"><img src="https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/{file.name}" alt="{file.stem}" height="50"></a>'
 
 
 imgs = sorted(Path("./png").glob("*.png"))
@@ -28,5 +28,5 @@ lines.insert(line_number + 1, " ".join(img_tags))
 with open(path, "w", encoding="UTF-8") as f:
     f.write("".join(lines))
     f.write("\n")
-print("Done!")
-print("Please commit the new ICONS.md file.")
+print("Fait !")
+print("Veuillez valider le nouveau fichier ICONS.md")

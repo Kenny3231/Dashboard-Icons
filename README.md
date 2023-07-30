@@ -14,66 +14,30 @@
   </p>
 </p>
 
-# 📖 Table of Contents
+# 📖 Table des matières
 
-- [🚀 Getting Started](#-getting-started)
-  - [📊 Dashboards](#-dashboards)
-  - [🛠️ Installation](#️-installation)
-- [🎨 Icons](#-icons)
-- [🎉 Contributing Guidelines](#-contributing-guidelines)
-- [📜 Legal](#-legal)
+- [🚀 Commencement](#-getting-started)
+- [📊 Dashboards](#-dashboards)
 
-## 🚀 Getting Started
+## 🚀 Commencement
 
-### 📊 Dashboards
+J'ai repris des icones gratuites libre de droits
 
-Utilisable avec tous les dashboard
+## 📊 Dashboards
 
-- [Homarr](https://github.com/ajnart/homarr)\*
-- [Dashy](https://github.com/Lissy93/dashy)\*
-- [Homer Dashboard](https://github.com/bastienwirtz/homer)
-- [Heimdall](https://github.com/linuxserver/Heimdall)
-- [Organizr(v2)](https://github.com/causefx/Organizr)
-- [Flame](https://github.com/pawelmalak/flame)
-- [SUI](https://github.com/jeroenpardon/sui)
-- [Homepage](https://github.com/benphelps/homepage)\*
+Utilisable avec tous les dashboards.
+Je l'utlise sur mes dashboars Grafana et dans Discord
 
-**Note:** Dashboards with a \* have native integration with Dashboard Icons.
-
-### 🛠️ Installation
-
-**Tip!** You can access Dashboard Icons online, faster, by using `https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/example.png`. Just replace `example` with the name of the icon!
-
-To download an icon from the [icons page](#-icons), simply `Right click > Save link as`.
-
-For non-desktop operating systems or people who prefer to use the terminal:
-
-```sh
-$ curl -O https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/example.png
-```
-
-or
-
-```sh
-$ wget https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/example.png
-```
 
 ## 🎨 Icons
-**⚠️ Warning!**  Going to this page will load every single icon in the repository. This might cause:
-- 📉 An excessive amount of data use.
-- 💻 System slowdowns.
-	- 🌐 Browser crashes.
+**⚠️ Warning!**  Aller sur cette page chargera chaque icône du référentiel. Cela peut entraîner :
+- 📉 Une utilisation excessive des données.
+- 💻 Ralentissements du système.
+- 🌐 Crash du navigateur
 
-*If your device cannot handle loading more than 1000 images, we advise to not go to this page.*
-
+*Si votre appareil ne peut pas gérer le chargement de plus de 1000 images, nous vous conseillons de ne pas aller sur cette page.*
 ➡️ Click [**here**](ICONS.md) to display all icons.
 
-## 🎉 Contributing Guidelines
-Please read the [Contributing Guidelines](CONTRIBUTING.md) before contributing to this project.
 
-## 📜 Legal
 
-Please read our [LICENSE](LICENSE) for information regarding the use of our software and assets. By accessing or using this repository, you agree to be bound by the terms and conditions of the license.
-
-If you have any questions or concerns regarding the license, please contact us at contact@walkx.fyi before using or distributing the contents of this repository.
 
