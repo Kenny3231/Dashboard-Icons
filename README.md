@@ -1,14 +1,14 @@
 <p align="center">
   <h2 align="center"> 🟣 Icones </h3>
   <p align="center">
-    <a href="https://www.jsdelivr.com/package/gh/walkxcode/dashboard-icons">
-      <img src="https://img.shields.io/jsdelivr/gh/hy/walkxcode/dashboard-icons?color=%23A020F0" alt="JSdelivr weekly downloads badge">
+    <a href="https://www.jsdelivr.com/package/gh/Kenny3231/Dashboard-Icons">
+      <img src="https://img.shields.io/jsdelivr/gh/hy/Kenny3231/Dashboard-Icons?color=%23A020F0" alt="JSdelivr weekly downloads badge">
     </a>
   </p>
   <p align="center">
     Icones pour dashboard.
     <br />
-    <a href="#-icons"><strong>👀 See the icons</strong></a> • <a href="https://shop.walkx.fyi/l/donate" target="_blank"><strong>🙌🏻 Donate</strong></a>
+    <a href="#-icons"><strong>👀 Voir les icones</strong></a>
     <br />
     <br />
   </p>
@@ -42,20 +42,20 @@ Utilisable avec tous les dashboard
 
 ### 🛠️ Installation
 
-**Tip!** You can access Dashboard Icons online, faster, by using `https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png`. Just replace `example` with the name of the icon!
+**Tip!** You can access Dashboard Icons online, faster, by using `https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/example.png`. Just replace `example` with the name of the icon!
 
 To download an icon from the [icons page](#-icons), simply `Right click > Save link as`.
 
 For non-desktop operating systems or people who prefer to use the terminal:
 
 ```sh
-$ curl -O https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png
+$ curl -O https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/example.png
 ```
 
 or
 
 ```sh
-$ wget https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png
+$ wget https://cdn.jsdelivr.net/gh/Kenny3231/Dashboard-Icons/png/example.png
 ```
 
 ## 🎨 Icons
